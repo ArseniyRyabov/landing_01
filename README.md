@@ -10,3 +10,5 @@ This single page adaptive website with cross-browser compatibility. jQuery is no
 ## Project demo (website pages)
 
 ![demo.jpg](demo.jpg)
+
+![demo_1.png](demo_1.jpg)
